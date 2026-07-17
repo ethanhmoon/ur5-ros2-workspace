@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: ur5_description
+    relative_path: urdf/ur5_urdf.xacro
+  srdf:
+    relative_path: config/ur5.srdf
+  package_settings:
+    author_name: moon
+    author_email: ethanmoon2000@yahoo.com
+    generated_timestamp: 1784039107
