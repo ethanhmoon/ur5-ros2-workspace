@@ -1,4 +1,4 @@
-# UR ROS 2 Workspace
+# ROS 2 Workspace
 
 A ROS 2 Humble workspace for controlling a simulated UR3 and ur5 arm in Gazebo via MoveIt2, running in Docker on Ubuntu 20.04.
 
